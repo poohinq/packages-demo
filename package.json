@@ -1,3 +1,5 @@
 {
-  "your": "json config here"
+  "name": "my-awesome-package",
+  "version": "1.0.0",
+  "author": "Your Name sku"
 }
